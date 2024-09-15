@@ -60,7 +60,7 @@ Ayush Portal is on a mission to transform the entrepreneurial landscape in India
 
 ## 🔗Assets
 
-- [GitHub Repo](https://github.com/psankhe28/Ayush-Portal)
+- [GitHub Repo](https://github.com/PythonGod2131/11/tree/main)
 - [PPT](https://drive.google.com/file/d/1awSD5Ivo6C-gtEbqmokaY0RgF5D4smLn/view)
 
 ## 🤖Tech-Stack
